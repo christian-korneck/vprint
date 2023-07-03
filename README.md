@@ -6,7 +6,7 @@ alias for `fmt.Printf("%#v\n", v)`, nothing more
 package main
 
 import (
-	"glue.tools/vprint"
+	"github.com/christian-korneck/vprint"
 )
 
 func main() {
